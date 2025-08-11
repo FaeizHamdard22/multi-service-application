@@ -15,9 +15,8 @@ my-app/
 ├── app.py                # Flask application code
 ├── requirements.txt      # Python dependencies
 ├── Dockerfile            # Image build instructions for Flask app
-├── docker-compose.yml    # Multi-service configuration
 └── README.md             # Project documentation
-
+docker-compose.yml    # Multi-service configuration
 ````
 
 ## Prerequisites
