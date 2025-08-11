@@ -1,5 +1,4 @@
 
-```markdown
 # Multi-Service Application (Flask + PostgreSQL + Redis)
 
 This project demonstrates a simple multi-service application using:
